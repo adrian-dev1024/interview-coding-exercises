@@ -1,0 +1,5 @@
+{ "hands":[
+  {"hand": {"cards" : ["10H", "AD", "QH", "KH", "AH"]}},
+  {"hand": {"cards" : ["JH", "4C", "4S", "JC", "4H"]}},
+  {"hand": {"cards" : ["10H", "JH", "QH", "KH", "AH", "3S", "9D"]}}
+]}
